@@ -1,6 +1,6 @@
 package net.sf.anathema.platform.fx.dot;
 
-import com.sun.javafx.Utils;
+import com.sun.javafx.util.Utils;
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
 import javafx.collections.ObservableList;
@@ -17,6 +17,7 @@ import javafx.scene.layout.StackPane;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;
 import jfxtras.scene.control.ListSpinner;
+
 
 import java.util.ArrayList;
 import java.util.Collections;
